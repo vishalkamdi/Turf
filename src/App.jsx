@@ -38,7 +38,7 @@ import AddressPage from "./components/Address/AddressPage";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Turf">
       <Navbar />
       {/* Define Routes */}
       <Routes>
