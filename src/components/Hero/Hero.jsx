@@ -26,7 +26,7 @@ const Hero = () => {
           <img
             src={Cricket}
             alt="Cricket"
-            className="max-w-full h-auto transition-transform duration-500 hover:scale-105 hover:rotate-3"
+            className="max-w-full h-auto transition-transform duration-500 hover:scale-105 "
           />
         </div>
       </div>
